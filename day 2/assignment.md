@@ -2,9 +2,9 @@
 
 Q1. Accept two number from user and print sum of it.
 
-Q2. Create a class library which will return square, cube of a number. [Create private Assembly]
+Q2. Create a class library which will return square, cube of a number. [Create private Assembly](class library file-class1.cs and console application file-program.cs)
 
-Q3. Create a class library which will return square, cube of a number. [Create shared Assembly]
+Q3. Create a class library which will return square, cube of a number. [Create shared Assembly](class library file-class1.cs and console application file-program1.cs)
 
 Q4. Accept two name from user and concat.
 
