@@ -1,4 +1,4 @@
-## Day 4 Assignment Questions
+## Day 5 Assignment Questions
 
 Q1. Create a class Account having private instance member Id, Name Balanceamt. Create method deposit who’s job is to increase Balanceamtby the amout deposited buy account holder. Create method withdraw who’s job is to decrease Balanceamtby the amout  withdrwan buy account holder. Write method display which will display name and Balanceamt. This application will be classlibrary.
 Create console application and use this class library. Create at least two object of account class and deposit and withdraw money.
